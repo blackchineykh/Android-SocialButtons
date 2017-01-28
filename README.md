@@ -30,7 +30,7 @@ Add jitpack to your dependencies -
 And include the library in your dependencies   
 ```groovy
  dependencies {
-        compile 'com.github.championswimmer:Android-SocialButtons:1.0'
+        compile 'com.github.blackchineykh:Android-SocialButtons:1.0'
     }
 ```  
 
